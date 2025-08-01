@@ -20,7 +20,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-222222?style=flat-square&logo=Spring&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-222222?style=flat&logo=Python&logoColor=ffdd54)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusjuan1&layout=compact&bg_color=000&border_color=78C0E0&title_color=78C0E0&text_color=FFF&hide=dockerfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjuan1&layout=compact&bg_color=000&border_color=78C0E0&title_color=78C0E0&text_color=FFF)
 
 ## Connect with Me
 
