@@ -3,11 +3,13 @@
 
   <h1>Hi there, I'm Matheus Juan! 👋</h1>
 
-  <p>
-    🇧🇷 (PT-BR) Tenho mais de 4 anos de experiência em desenvolvimento mobile, com foco em Android nativo utilizando Kotlin e Java. Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades, explorando novas tendências em mobile e backend para desenvolver soluções cada vez mais eficientes.
-   
-  🇺🇸 (EN-US) I have over 4 years of experience in mobile development, focusing on native Android using Kotlin and Java. I am passionate about technology and constantly seek to improve my skills, exploring new trends in mobile and backend to develop increasingly efficient solutions.
-  </p>
+ <p>
+🇧🇷 (PT-BR) Com experiência sólida em desenvolvimento mobile, atuo no ecossistema Android nativo, utilizando Kotlin e Java. Sou movido pela paixão por tecnologia e busco constantemente aprimorar minhas habilidades, explorando novas tendências em mobile e backend para criar soluções eficientes e inovadoras.
+</p>
+
+<p>
+🇺🇸 (EN-US) With a strong background in mobile development, I specialize in the native Android ecosystem, using Kotlin and Java. Driven by a passion for technology, I am constantly improving my skills and exploring new trends in mobile and backend to build efficient and innovative solutions.
+</p>
 
 
 ## Languages and Tools
