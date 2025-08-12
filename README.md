@@ -4,29 +4,25 @@
   <h1>Hi there, I'm Matheus Juan! 👋</h1>
 
  <p>
-🇧🇷 (PT-BR) Com experiência sólida em desenvolvimento mobile, atuo no ecossistema Android nativo, utilizando Kotlin e Java. Sou movido pela paixão por tecnologia e busco constantemente aprimorar minhas habilidades, explorando novas tendências em mobile e backend para criar soluções eficientes e inovadoras.
-</p>
-
-<p>
-🇺🇸 (EN-US) With a strong background in mobile development, I specialize in the native Android ecosystem, using Kotlin and Java. Driven by a passion for technology, I am constantly improving my skills and exploring new trends in mobile and backend to build efficient and innovative solutions.
+With a strong background in mobile development, I specialize in the native Android ecosystem, using Kotlin and Java. Driven by a passion for technology, I am constantly improving my skills and exploring new trends in mobile and backend to build efficient and innovative solutions.
 </p>
 
 
 ## Languages and Tools
 
-![Android](https://img.shields.io/badge/Android-222222?style=flat-square&logo=Android&logoColor=3DDC84)
-![Kotlin](https://img.shields.io/badge/Kotlin-222222?style=flat-square&logo=Kotlin&logoColor=7F52FF)
-![Java](https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Flutter](https://img.shields.io/badge/Flutter-222222?style=flat-square&logo=Flutter&logoColor=02569B)
-![React Native](https://img.shields.io/badge/React%20Native-222222?style=flat-square&logo=React&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-222222?style=flat-square&logo=Spring&logoColor=6DB33F)
-![Python](https://img.shields.io/badge/Python-222222?style=flat&logo=Python&logoColor=ffdd54)
+![Android](https://img.shields.io/badge/Android-222222?style=for-the-badge&logo=Android&logoColor=3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-222222?style=for-the-badge&logo=Kotlin&logoColor=7F52FF)
+![Java](https://img.shields.io/badge/Java-222222?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Flutter](https://img.shields.io/badge/Flutter-222222?style=for-the-badge&logo=Flutter&logoColor=02569B)
+![React Native](https://img.shields.io/badge/React%20Native-222222?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-222222?style=for-the-badge&logo=Spring&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=Python&logoColor=ffdd54)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjuan1&layout=compact&bg_color=000&border_color=78C0E0&title_color=78C0E0&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjuan1&layout=compact&bg_color=000&border_color=00ced1&title_color=00ced1&text_color=FFF)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusjuan1/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheusjuan1/)
 
 <img width="60" alt="Image" src="https://github.com/user-attachments/assets/efd1d014-148c-4ae8-8dbd-81850fadf9ba" />
   
