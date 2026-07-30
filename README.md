@@ -18,8 +18,6 @@ With a strong background in mobile development, I specialize in the native Andro
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-222222?style=for-the-badge&logo=Spring&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=Python&logoColor=ffdd54)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjuanf&layout=compact&bg_color=000&border_color=00ced1&title_color=00ced1&text_color=FFF)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheusjuanf/)
